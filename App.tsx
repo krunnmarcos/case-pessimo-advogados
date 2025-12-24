@@ -6,7 +6,7 @@ import { Services } from './components/Services';
 import { ContactForm } from './components/ContactForm';
 import { Footer } from './components/Footer';
 import { Sidebar } from './components/Sidebar';
-import { GeminiChat } from './components/GeminiChat';
+import { LawsuitGenerator } from './components/LawsuitGenerator';
 
 const App: React.FC = () => {
   const [loading, setLoading] = useState(true);
@@ -65,7 +65,7 @@ const App: React.FC = () => {
                 </div>
             </div>
 
-            <GeminiChat />
+            <LawsuitGenerator />
             <ContactForm />
           </div>
           

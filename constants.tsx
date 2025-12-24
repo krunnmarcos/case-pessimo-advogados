@@ -7,7 +7,14 @@ export const COLORS = {
 };
 
 export const BAD_ADVICE_PROMPTS = [
-    "Como processar o Sol por estar muito quente?",
-    "Quero os bens da minha sogra enquanto ela dorme",
-    "Posso processar o governo por não ter ganho na Mega-Sena?"
+    "PROCESSE O SOL POR QUEIMADURAS DE 1º GRAU!",
+    "PROCESSE SEU GATO POR NÃO PAGAR ALUGUEL!",
+    "PROCESSE O WHATSAPP PORQUE ELA NÃO TE RESPONDEU!",
+    "PROCESSE A GRAVIDADE POR TER DERRUBADO SEU SORVETE!",
+    "PROCESSE SEU PAI POR TER TE DADO ESSA CARA!",
+    "PROCESSE A PADARIA PORQUE O PÃO TAVA MUITO QUENTE!",
+    "PROCESSE O ESPELHO PORQUE VOCÊ NÃO GOSTOU DO QUE VIU!",
+    "PROCESSE A NETFLIX PORQUE O FILME FOI RUIM!",
+    "PROCESSE SEU VIZINHO PORQUE ELE RESPIROU SEU AR!",
+    "PROCESSE O MUNDO POR ELE SER REDONDO (OU PLANO)!"
 ];
